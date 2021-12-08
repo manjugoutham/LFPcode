@@ -28,7 +28,7 @@ public class EmpWageCal
     public void displayEmployee()
     {
         System.out.printf( "Employee's name: %s", getEmployeeName() );
-        System.out.printf( "\nGross Salary: ", + pay );
+        System.out.printf( "\nGross Salary: %f", + pay );
     }
     
     
